@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5e9becb6-59a3-4afd-b04b-63bc688dd739" name="实验室GPU服务器">
+        <fileTransfer rootFolder="/home/wuyuan" accessType="SFTP" host="124.156.134.117" port="7073" sshConfigId="7e1fffc0-5365-4b2e-a1ef-4e8e9343af75" sshConfig="wuyuan@124.156.134.117:7073 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
